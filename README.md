@@ -1,7 +1,7 @@
 <h1 align="center">Hello Namaste, I'm Ananthakrishna Bhat</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Netflix-GPT**
+- 🔭 I’m currently working on **Youtube Clone Project** to learn advance React concepts like debouncing, API polling, Redux caching etc.
 
 - 🌱 I’m currently learning **Advance React and Node concepts.**
 
